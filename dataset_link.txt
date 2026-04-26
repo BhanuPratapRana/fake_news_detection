@@ -1,0 +1,11 @@
+Dataset Name:
+TALLIP Fake News Dataset
+
+Source:
+IIT Patna (AI-NLP-ML Resources)
+
+Dataset Link:
+http://www.iitp.ac.in/~ai-nlp-ml/resources/data/TALLIP-FakeNews-Dataset.zip
+
+Description:
+This dataset contains fake and real news data used for Fake News Detection using Machine Learning and NLP techniques for binary classification.
